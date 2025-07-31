@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226862152915",
+    "project_id": "cv-genie-fbacf",
+    "storage_bucket": "cv-genie-fbacf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226862152915:android:70aedd2f15d3a0bcabe826",
+        "android_client_info": {
+          "package_name": "com.jalalkhan.cvgenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwyUZsbXVtkhlPQkAYKyDHvWnzCJ6kMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,7 @@
 # CV Genie 🧞‍♂️  
 **AI-Powered Mobile Resume Builder**
 
-CV Genie is a cross-platform mobile application that allows users to create professional, job-ready resumes quickly and easily. Built with **React Native**, **TypeScript**, and **Expo**, the app provides an intuitive interface, over 50 elegant CV templates, live previews, and PDF export functionality — all while supporting offline use.
+CV Genie is a cross-platform mobile application that allows users to create professional, job-ready resumes quickly and easily. Built with **React Native**, **TypeScript**, and **Expo**, the app provides an intuitive interface, over 50 elegant CV templates, live previews, and PDF export functionality all while supporting offline use.
 
 ---
 
